@@ -50,3 +50,7 @@ Folder zawiera:
     12. Sortowanie wg dat dla czytelności
 
     13. Ponowne przypisanie indeksów w kolejności rosnącej
+
+## Dokumenty
+
+Folder zawiera plik README.md opisujący projekt
